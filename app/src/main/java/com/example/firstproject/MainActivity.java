@@ -58,6 +58,10 @@ public class MainActivity extends AppCompatActivity {
                 Intent.putExtra("alamat_key",txtAlamat.getText());
 
                 startActivity(Intent);
+
+//                text komentar
+//                cuma untuk test
+
             }
         });
     }
